@@ -1,2 +1,2 @@
 # Language conventor 
- Package which converts a language name to its ISO 639-1 code
+ Package which gives ISO 639-1 code and Russian translation of language name by English language name. 
